@@ -1,2 +1,2 @@
-# First GUI
- My first GUI
+# GUI
+ 
